@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Getting Started with Noisy Trumpet Take Home Test
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This test is building a button component with some acceptance criteria. Used to test familiarity with build reusable components within a React/JavaScript Framework.
+This should not take longer than a day to work on.
 
 ## Available Scripts
 
